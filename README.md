@@ -132,7 +132,7 @@ A 35-year-old customer with ₦2.8M income and multiple active loans could be of
 
 ---
 
-## 🚀 CI/CD Pipeline
+## ➰ CI/CD Pipeline
 
 The project includes a GitHub Actions workflow that automates:
 
